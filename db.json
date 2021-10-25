@@ -4,6 +4,7 @@
       "id": 1,
       "stock": 100,
       "name_nl" : "Product X",
+      "code" : "AB0010",
       "image" : "https://marma.be/pictures/products/BA1135.jpg?2021-10-25%2002:00:05",
       "available": 1
     }
